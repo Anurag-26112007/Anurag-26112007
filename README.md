@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm a computer science student with a practical, p
 - 🏆 **Recent Achievements:** 
   - Runner-Up at the *Build with ML* hackathon (Oct 2026) for **Drishti**, a client-side AI accessibility vision system.
   - Showcased **Sensex Snacks**, a gamified dynamic LED pricing food stall concept, at the Google Student Ambassador Fest.
-  - Finalized team prototype for the **Smart India Hackathon (SIH) 2026**.
+  - Finalized team prototype (**GeoLayer**) for the **Smart India Hackathon (SIH) 2026**. [View Live Prototype](https://anurag-26112007.github.io/GeoLayer-Prototype/)
 - 👯 **Community:** Active participant with *Coding Connoisseurs* at FoET, LU.
 - 💬 **Ask me about:** Prototyping web apps, AI integration (Ollama, TensorFlow.js), and efficient client-side storage using IndexedDB!
 - 📫 **How to reach me:** Let's connect on [LinkedIn](https://www.linkedin.com/in/anurag-saini-a36339377).
@@ -30,6 +30,7 @@ Welcome to my GitHub profile! I'm a computer science student with a practical, p
 
 *(Note: The codebases for these projects were developed using AI coding assistants, which allows me to focus on system architecture, creative problem-solving, and fast hackathon execution.)*
 
+- **GeoLayer (SIH 2026):** Our finalized team prototype developed for the Smart India Hackathon. [View the Live Prototype](https://anurag-26112007.github.io/GeoLayer-Prototype/)
 - **EPILEX:** An AI-powered emergency alerting system that detects specific motions using MediaPipe and dispatches real-time alerts via multiple messaging protocols.
 - **Drishti:** A browser-based accessibility tool that helps users navigate obstacles and detect currency locally on the client side using TensorFlow.js. 
 - **Themed Portfolio:** A character-themed portfolio website inspired by *Anne of Green Gables*, successfully built and deployed from scratch during a 10-Hour Design Challenge.
